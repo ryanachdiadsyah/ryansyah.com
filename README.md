@@ -5,7 +5,7 @@
 <a href="https://twitter.com/achdiadsyah">
   <img align="left" alt="Ryan Achdiadsyah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ryan-achdiadsyah/">
+<a href="https://www.linkedin.com/in/ryan-achdiadsyah-399b761bb/">
   <img align="left" alt="Ryansyah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
